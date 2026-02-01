@@ -1,0 +1,23 @@
+{
+    "name": "Drone Control Pro - Professional Flight System",
+    "short_name": "Drone Control",
+    "description": "Professional Drone Control System with Bluetooth connectivity, real-time monitoring, and AI-powered features",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#0F0F1E",
+    "theme_color": "#6C63FF",
+    "orientation": "portrait",
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
+    "icons": [
+        {
+            "src": "https://api.dicebear.com/7.x/shapes/svg?seed=drone&backgroundColor=6C63FF",
+            "sizes": "512x512",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
